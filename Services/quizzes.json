@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "123",
+    "name": "Quiz 1",
+    "cid": "5e7af3fdbc75eb0017f1ae08"
+  },
+  {
+    "_id": "234",
+    "name": "Quiz 2",
+    "cid": "5e7af3fdbc75eb0017f1ae08"
+  },
+  {
+    "_id": "345",
+    "name": "Quiz 3",
+    "cid": "5e7b7281c0a1b100173707f7"
+  }
+]
